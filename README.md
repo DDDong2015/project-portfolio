@@ -1,4 +1,5 @@
 # Project Portfolio
-1. Airbnb Rental Price Prediction - ML - R
-2. Movie Recommendation System  - ML - R
-3. 
+1. Movie Recommendation System  - R - ML&NLP
+2. Lending Club Analysis - Python
+3. Product Recommendation - Python - NLP
+4. Sales Dashboard - SQL&R shiny 
