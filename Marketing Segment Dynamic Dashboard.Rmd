@@ -114,7 +114,7 @@ income.group.name <- "Income_Group"
 ```
 
 ```{r read_data, include=FALSE, eval=TRUE}
-data = fread(input = "/Volumes/Seagate Backup Plus Drive/2020.12.17 Mac backup/School/Columbia/summer 2020/5902 capstone/Project 3/mobile phone survey data.csv", verbose = F)
+data = fread(input = "xxx/mobile phone survey data.csv", verbose = F)
 ```
 
 ```{r define groups}
