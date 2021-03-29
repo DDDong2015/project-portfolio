@@ -5,7 +5,9 @@
 4. Sales Dashboard - SQL&R shiny 
 5. Marketing Segment Dynamic Dashboard - R markdown&R shiny
 
-##### 1. Movie Recommendation System - R - ML&NLP
+——————————————————————————————————
+
+#### 1. Movie Recommendation System - R - ML&NLP
 
 Github: https://github.com/DDDong2015/project-portfolio/blob/e84edba028a51c983cd00ea6c6d12318b939a6d1/movie%20recommendation.R 
 
@@ -29,7 +31,7 @@ Sample Results & Visualization:
 ![image](https://user-images.githubusercontent.com/80507218/112909741-02cc5c00-90c0-11eb-8fb4-b589d2e65c17.png)
 
 
-##### 2. Lending Club Loan Analysis - Python
+#### 2. Lending Club Loan Analysis - Python
 
 Github: https://github.com/DDDong2015/project-portfolio/blob/7ec8287fc4dfb78a5efb84d6169c8a32c25fce84/Leading%20Club.ipynb
 
@@ -53,7 +55,7 @@ Sample Results & Visualization:
 ![image](https://user-images.githubusercontent.com/80507218/112909896-4b841500-90c0-11eb-815a-b8ec8f5a72ce.png)
 ![image](https://user-images.githubusercontent.com/80507218/112909902-4e7f0580-90c0-11eb-98ed-b056f5f39b16.png)
 
-##### 3. Product recommendation - Python - NLP
+#### 3. Product recommendation - Python - NLP
 
 Github: https://github.com/DDDong2015/project-portfolio/blob/7ec8287fc4dfb78a5efb84d6169c8a32c25fce84/Leading%20Club.ipynb 
 
@@ -75,7 +77,7 @@ Sample Results & Visualization:
 ![image](https://user-images.githubusercontent.com/80507218/112909959-68b8e380-90c0-11eb-91cd-8f8a69b2219f.png)
 
 
-##### 4. Sales Dashboard - SQL&R shiny 
+#### 4. Sales Dashboard - SQL&R shiny 
 
 Github: https://github.com/DDDong2015/project-portfolio/blob/c9116b1cdda6468efa88da996b7155307fb32f78/Sales%20Dashboard.R 
 
@@ -98,7 +100,7 @@ Sample Results & Visualization:
 
 ![image](https://user-images.githubusercontent.com/80507218/112910024-8128fe00-90c0-11eb-88ed-ea638967be71.png)
 
-##### 5. Marketing Segment Dynamic Dashboard - R shiny
+#### 5. Marketing Segment Dynamic Dashboard - R shiny
 
 Github: https://github.com/DDDong2015/project-portfolio/blob/0fdb5438db4e2274250d55ed0ffde39093cf798e/Marketing%20Segment%20Dynamic%20Dashboard.Rmd 
 
