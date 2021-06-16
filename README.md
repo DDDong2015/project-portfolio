@@ -120,6 +120,26 @@ Sample Results & Visualization:
 
 ![image](https://user-images.githubusercontent.com/80507218/112910067-9736be80-90c0-11eb-9235-1f2a9e652ac2.png)
 
+#### 6. NYC 311 Survey - SQL + Tableau
+
+Github: https://github.com/DDDong2015/project-portfolio/blob/main/Marketing%20Segment%20Dynamic%20Dashboard.Rmd 
+
+Dataset: 22/46 variables selected out of 13.68GB dataset 
+
+Methodology: 
+
+  -Used SQL query to explore data features and deliver actionable recommendation
+  -Visualize NYC 311 Survey data using proper type of graphs and charts
+  
+Goal: Visualize the data to generate insights for NYC government departments
+
+Sample Results & Visualization:
+
+![NYC 311](https://user-images.githubusercontent.com/80507218/122195225-2b185b00-ce64-11eb-93ed-c08574a538e2.png)
+
+
+
+
 
 
 
