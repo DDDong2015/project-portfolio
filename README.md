@@ -9,7 +9,7 @@
 
 #### 1. Movie Recommendation System - R - ML&NLP
 
-Github: https://github.com/DDDong2015/project-portfolio/blob/e84edba028a51c983cd00ea6c6d12318b939a6d1/movie%20recommendation.R 
+Github: https://github.com/DDDong2015/project-portfolio/blob/main/Movie%20Recommendation.R 
 
 Dataset: 45,265 observations, 15 variables with a mixed format of categorical and numeric ones
 
@@ -33,7 +33,7 @@ Sample Results & Visualization:
 
 #### 2. Lending Club Loan Analysis - Python
 
-Github: https://github.com/DDDong2015/project-portfolio/blob/7ec8287fc4dfb78a5efb84d6169c8a32c25fce84/Leading%20Club.ipynb
+Github: https://github.com/DDDong2015/project-portfolio/blob/main/Leading%20Club.ipynb
 
 Dataset: 890, 000 observations and 74 variables
 
@@ -57,7 +57,7 @@ Sample Results & Visualization:
 
 #### 3. Product recommendation - Python - NLP
 
-Github: https://github.com/DDDong2015/project-portfolio/blob/7ec8287fc4dfb78a5efb84d6169c8a32c25fce84/Leading%20Club.ipynb 
+Github: https://github.com/DDDong2015/project-portfolio/blob/main/Product%20Recommendation.ipynb
 
 Dataset:192,403 distinct reviewer IDs and 63,001 unique products
 
@@ -79,7 +79,7 @@ Sample Results & Visualization:
 
 #### 4. Sales Dashboard - SQL&R shiny 
 
-Github: https://github.com/DDDong2015/project-portfolio/blob/c9116b1cdda6468efa88da996b7155307fb32f78/Sales%20Dashboard.R 
+Github: https://github.com/DDDong2015/project-portfolio/blob/c9116b1cdda6468efa88da996b7155307fb32f78/Sales%20Dashboard.R
 
 Dataset: 50,000 records of BMV sales transactions
 
@@ -102,7 +102,7 @@ Sample Results & Visualization:
 
 #### 5. Marketing Segment Dynamic Dashboard - R shiny
 
-Github: https://github.com/DDDong2015/project-portfolio/blob/0fdb5438db4e2274250d55ed0ffde39093cf798e/Marketing%20Segment%20Dynamic%20Dashboard.Rmd 
+Github: https://github.com/DDDong2015/project-portfolio/blob/main/Marketing%20Segment%20Dynamic%20Dashboard.Rmd 
 
 Dataset: 24 variables and 200,000 rows of data
 
