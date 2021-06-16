@@ -122,7 +122,7 @@ Sample Results & Visualization:
 
 #### 6. NYC 311 Survey - SQL + Tableau
 
-Github: https://github.com/DDDong2015/project-portfolio/blob/main/Marketing%20Segment%20Dynamic%20Dashboard.Rmd 
+Github: https://github.com/DDDong2015/project-portfolio/blob/main/NYC%20311%20Survey.twbx 
 
 Dataset: 22/46 variables selected out of 13.68GB dataset 
 
